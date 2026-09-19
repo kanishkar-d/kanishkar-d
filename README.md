@@ -1,98 +1,66 @@
 <div align="center">
 
-```
-$ whoami
-> kanishkar_t
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0C,50:646973,100:BBCCD7&height=230&section=header&text=HI,%20I'M%20KANISHKAR&fontSize=52&fontColor=D7E2EA&fontAlignY=40&animation=fadeIn&desc=WEB%20DEV%20%7C%20UI%2FUX%20%7C%20GRAPHIC%20DESIGN&descAlignY=60&descSize=16"/>
 
-$ status --check
-[OK] engineering_student   : true
-[OK] freelancer            : true
-[OK] accepting_projects    : true
-[..] loading_profile.......[████████████████████] 100%
+<sub>ABOUT&nbsp;&nbsp;·&nbsp;&nbsp;SKILLS&nbsp;&nbsp;·&nbsp;&nbsp;PROJECTS&nbsp;&nbsp;·&nbsp;&nbsp;CONTACT</sub>
 
-$ ./boot_profile.sh
-Welcome to the terminal, guest.
-```
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=18&duration=3000&pause=900&color=D7E2EA&center=true&vCenter=true&width=650&lines=an+engineering+student+driven+by+crafting;clean+web%2C+brand%2C+and+design+work;freelancing+one+project+at+a+time" />
 
 </div>
 
 <br>
 
-# > cat about.md
+## About
 
 I'm Kanishkar — an engineering student who spends more time freelancing than sleeping. Somewhere between lecture halls and late-night deadlines, I picked up a habit: turning blank screens into things people actually use — sites, brand kits, posters, spreadsheets, scripts, whatever the job needs.
 
-I don't specialize in one lane. One day I'm laying out a landing page, the next I'm cleaning up a client's data in Python, the next I'm designing a logo from a two-line brief. I like that range. It keeps the work from ever feeling routine.
-
-Right now I'm open — to freelance gigs, collabs, weird side projects, anything that needs someone who can move between "developer" and "designer" without missing a beat.
+I don't specialize in one lane. One day I'm laying out a landing page, the next I'm cleaning client data in Python, the next I'm designing a logo from a two-line brief. That range keeps things interesting — and I'm currently open to freelance work, collabs, and anything that needs someone who moves between developer and designer without missing a beat.
 
 <br>
 
-# > ls skills/
+## Skills
 
 <table width="100%">
-<tr>
-<td width="25%" align="center"><b>WEB</b><br><sub>HTML · CSS · JS</sub></td>
-<td width="25%" align="center"><b>LOGIC</b><br><sub>Python · Java</sub></td>
-<td width="25%" align="center"><b>DATA</b><br><sub>MySQL</sub></td>
-<td width="25%" align="center"><b>TOOLS</b><br><sub>Git · VS Code</sub></td>
-</tr>
-<tr>
-<td width="25%" align="center"><b>DESIGN</b><br><sub>Figma · Canva</sub></td>
-<td width="25%" align="center"><b>OUTPUT</b><br><sub>Landing Pages</sub></td>
-<td width="25%" align="center"><b>OUTPUT</b><br><sub>Brand Kits</sub></td>
-<td width="25%" align="center"><b>OUTPUT</b><br><sub>Data Entry</sub></td>
-</tr>
+<tr><td width="8%"><b>01</b></td><td><b>WEB DESIGN</b><br><sub>Responsive business sites · e-commerce UI · landing pages</sub></td></tr>
+<tr><td><b>02</b></td><td><b>UI / UX</b><br><sub>Layout, typography, and user-flow thinking for clean interfaces</sub></td></tr>
+<tr><td><b>03</b></td><td><b>GRAPHIC DESIGN</b><br><sub>Brand identity & logos · social creatives · posters</sub></td></tr>
+<tr><td><b>04</b></td><td><b>ENGINEERING</b><br><sub>Python scripts · problem-solving · database management</sub></td></tr>
+<tr><td><b>05</b></td><td><b>FREELANCE OPS</b><br><sub>Document formatting · data entry & typing · digital assets</sub></td></tr>
 </table>
 
-<p align="center"><sub>tech stack, rendered</sub></p>
-<p align="center">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,figma,canva,vscode&theme=dark" height="45"/>
-</p>
+</div>
 
 <br>
 
-# > dashboard --view=projects
+## Projects
 
-<table width="100%">
-<tr><th align="left" width="20%">SECTOR</th><th align="left">DETAILS</th></tr>
-<tr><td>🌐 Web Dev</td><td>Responsive business sites · E-commerce UI · Landing pages</td></tr>
-<tr><td>🎨 Design</td><td>Brand identity & logos · Social creatives · Posters</td></tr>
-<tr><td>🧠 Engineering</td><td>Python scripts · Problem-solving · DB management</td></tr>
-<tr><td>🧾 Freelance Ops</td><td>Doc formatting · Data entry & typing · Digital assets</td></tr>
-</table>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkar-d&show_icons=true&theme=default&hide_border=true&bg_color=0C0C0C&title_color=D7E2EA&text_color=D7E2EA&icon_color=BBCCD7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkar-d&layout=compact&theme=default&hide_border=true&bg_color=0C0C0C&title_color=D7E2EA&text_color=D7E2EA" height="165"/>
+</div>
 
-<br>
-
-# > dashboard --view=stats
-
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkar-d&show_icons=true&theme=dark&hide_border=true"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkar-d&layout=compact&theme=dark&hide_border=true"/>
-</td>
-</tr>
-</table>
+<sub>Pin your best repos above this section from your GitHub profile settings so they show up here.</sub>
 
 <br>
 
-# > dashboard --view=contact
+## Contact
 
-<table width="100%">
-<tr><td width="20%"><b>Email</b></td><td><a href="mailto:YOUR_EMAIL@gmail.com">YOUR_EMAIL@gmail.com</a></td></tr>
-<tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/YOUR_LINKEDIN">/in/YOUR_LINKEDIN</a></td></tr>
-<tr><td><b>Instagram</b></td><td><a href="https://www.instagram.com/YOUR_INSTAGRAM">@YOUR_INSTAGRAM</a></td></tr>
-</table>
+<div align="center">
 
-<br>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D7E2EA?style=for-the-badge&logo=gmail&logoColor=0C0C0C"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-D7E2EA?style=for-the-badge&logo=linkedin&logoColor=0C0C0C"/></a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-D7E2EA?style=for-the-badge&logo=instagram&logoColor=0C0C0C"/></a>
 
-```
-$ echo "thanks for stopping by"
-> thanks for stopping by
-$ exit
-```
+<br><br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kanishkar-d&style=flat&color=grey&label=views"/></p>
+<img src="https://komarev.com/ghpvc/?username=kanishkar-d&style=flat&color=BBCCD7&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BBCCD7,50:646973,100:0C0C0C&height=150&section=footer"/>
+
+</div>
