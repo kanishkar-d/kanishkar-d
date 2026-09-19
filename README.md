@@ -1,183 +1,145 @@
 <div align="center">
 
-<!-- Waving Header (Stable) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=220&section=header&text=KANISHKAR%20T&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
+<!-- Gradient Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2&height=200&section=header&text=KANISHKAR%20T&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Engineering%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Designer&descAlignY=65&descSize=18"/>
 
-<!-- Orbitron Futuristic Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=ENGINEERING+STUDENT;GRAPHIC+DESIGNER;WEBSITE+DESIGNER;FREELANCE+DEVELOPER;CREATIVE+PROBLEM+SOLVER;TURNING+IDEAS+INTO+DIGITAL+REALITY" />
+<br><br>
+
+<!-- Typing Intro -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences...;Writing+Clean+Code...;Designing+Creative+UIs...;Turning+Ideas+Into+Reality..." />
 
 <br>
+</div>
 
-<img src="https://img.shields.io/badge/ENGINEERING-0D1117?style=for-the-badge&logo=academia&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/DESIGN-0D1117?style=for-the-badge&logo=figma&logoColor=FF00C8"/>
-<img src="https://img.shields.io/badge/WEB-0D1117?style=for-the-badge&logo=googlechrome&logoColor=7B2CFF"/>
-<img src="https://img.shields.io/badge/FREELANCE-0D1117?style=for-the-badge&logo=freelancer&logoColor=00F5FF"/>
-
-<br><br>
-
-<!-- Hacker / Developer GIF (Stable GitHub Host) -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150" style="border-radius: 50%; box-shadow: 0 0 20px #00F5FF;" />
-
+<!-- MACOS TERMINAL STYLE ABOUT ME -->
+<div align="center">
+<table align="center" width="800" style="border-collapse: collapse; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+  <tr bgcolor="#161B22">
+    <td align="left" style="padding: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px;">
+      &nbsp; 🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp; <b style="color: #8B949E; font-family: monospace;">~ /kanishkar / about-me.sh</b>
+    </td>
+  </tr>
+  <tr bgcolor="#0D1117">
+    <td align="left" style="padding: 20px; font-family: monospace; font-size: 14px; color: #C9D1D9;">
+      <span style="color: #79C0FF;">kanishkar@github</span>:<span style="color: #D2A8FF;">~</span>$ whoami<br>
+      <span style="color: #7EE787;">KANISHKAR T</span><br><br>
+      <span style="color: #79C0FF;">kanishkar@github</span>:<span style="color: #D2A8FF;">~</span>$ cat identity.txt<br>
+      > 🎓 Engineering Student & Freelancer<br>
+      > 💻 Web Developer (Frontend & UI/UX)<br>
+      > 🎨 Graphic Designer (Branding & Social Media)<br>
+      > 🚀 Exploring IoT, Python, and Creative Problem Solving<br><br>
+      <span style="color: #79C0FF;">kanishkar@github</span>:<span style="color: #D2A8FF;">~</span>$ ./start-portfolio.sh<br>
+      <span style="color: #A5D6FF;">Loading modules... [OK]</span>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
 
 <div align="center">
-  <h2 style="color:#FF00C8;">🧬 MY DIGITAL IDENTITY</h2>
-</div>
-
-<table align="center" style="border: 1px solid #7B2CFF; background-color: #0D1117;">
-<tr> 
-<td align="center" width="220">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="45" height="45" /><br>
-<b style="color:#00F5FF;">ENGINEERING STUDENT</b><br><br>
-Learning technology, programming and problem-solving through academic and personal projects.
-</td> 
-<td align="center" width="220">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="45" height="45" /><br>
-<b style="color:#FF00C8;">GRAPHIC DESIGNER</b><br><br>
-Creating professional graphics, branding and visual content for businesses.
-</td> 
-<td align="center" width="220">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="45" height="45" /><br>
-<b style="color:#7B2CFF;">WEBSITE DESIGNER</b><br><br>
-Building clean, responsive and user-friendly websites.
-</td> 
-<td align="center" width="220">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" height="45" /><br>
-<b style="color:#00F5FF;">FREELANCER</b><br><br>
-Helping businesses turn their ideas into professional digital solutions.
-</td> 
-</tr> 
-</table> 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <h2 style="color:#00F5FF;">💻 TECH STACK & CREATIVE SKILLS</h2>
+  <h2 style="color: #79C0FF; font-family: monospace;">⚡ TECH ARSENAL</h2>
 </div>
 
 <div align="center">
-
-👩‍💻 <b style="color:#FFFFFF;">DEVELOPMENT</b><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
-<br><br>
-
-🎨 <b style="color:#FFFFFF;">DESIGN</b><br>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-<br><br>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/UI%2FUX-7B2CFF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Branding-FF00C8?style=for-the-badge"/>
-<br><br>
-
-🛠️ <b style="color:#FFFFFF;">CURRENTLY LEARNING</b><br>
-<img src="https://img.shields.io/badge/Web%20Development-00F5FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Freelancing-FF00C8?style=for-the-badge"/> 
-
+  <table>
+    <tr>
+      <td align="center">
+        <b>CODE & DEV</b><br><br>
+        <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>DESIGN & UI/UX</b><br><br>
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai" /><br><br>
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UI/UX-7B2CFF?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Branding-FF00C8?style=for-the-badge"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
 
 <div align="center">
-  <h2 style="color:#7B2CFF;">🚀 FEATURED PROJECTS</h2>
+  <h2 style="color: #D2A8FF; font-family: monospace;">🚀 PROJECT DIRECTORY</h2>
 </div>
 
-<table align="center"> 
-<tr> 
-<td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47ce8fe-668d-4045-a08f-b6a8368812c3.gif" width="50"/><br>
-<b style="color:#00F5FF;">🌐 Web Development</b><br><br>
-• Business Websites<br>
-• E-Commerce Interfaces<br>
-• Responsive UI/UX<br>
-<i>HTML, CSS, JavaScript</i>
+<table align="center" width="800"> 
+<tr bgcolor="#161B22"> 
+<td width="50%" align="center" style="padding: 20px;">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50"/><br>
+<b style="color:#79C0FF;">WEB DEVELOPMENT</b><br><br>
+<i>Responsive Business Sites<br>E-Commerce UI Layouts<br>Modern Landing Pages</i>
 </td> 
-<td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e7c65360-1d88-4389-9832-6a687f879653.gif" width="50"/><br>
-<b style="color:#FF00C8;">🎨 Graphic Design</b><br><br>
-• Brand Identity Concepts<br>
-• Social Media Creatives<br>
-• Promotional Posters<br>
-<i>Canva, Graphic Design</i>
+<td width="50%" align="center" style="padding: 20px;">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="50"/><br>
+<b style="color:#D2A8FF;">GRAPHIC DESIGN</b><br><br>
+<i>Brand Identity & Logos<br>Social Media Creatives<br>Promotional Posters</i>
 </td> 
 </tr>
-<tr> 
-<td width="50%" align="center">
+<tr bgcolor="#0D1117"> 
+<td width="50%" align="center" style="padding: 20px;">
 <br>
-<b style="color:#7B2CFF;">🐍 Engineering Projects</b><br><br>
-• Problem-solving Scripts<br>
-• Data Analytics Logic<br>
-<i>Python, Logic, Data</i>
+<b style="color:#7EE787;">ENGINEERING</b><br><br>
+<i>Python Logic Scripts<br>IoT Circuit Simulation<br>Tech Problem Solving</i>
 </td> 
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding: 20px;">
 <br>
-<b style="color:#00F5FF;">🗄️ Database Management</b><br><br>
-• Structured Data Handling<br>
-• System Recovery & Control<br>
-<i>MySQL, SQL, Database</i>
+<b style="color:#FFA657;">FREELANCE SERVICES</b><br><br>
+<i>Document Formatting<br>Data Entry & Typing<br>Digital Asset Creation</i>
 </td> 
 </tr> 
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
 
 <div align="center">
-  <h2 style="color:#00F5FF;">📊 GITHUB STATISTICS</h2>
+  <h2 style="color: #7EE787; font-family: monospace;">📊 GITHUB METRICS</h2>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkar-d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00C8&text_color=FFFFFF" height="180"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkar-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="180"/> 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <h2 style="color:#FF00C8;">🐍 CONTRIBUTION STREAK</h2>
+<!-- Using transparent dark theme for a cleaner look -->
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkar-d&show_icons=true&theme=transparent&hide_border=true&title_color=79C0FF&icon_color=D2A8FF&text_color=C9D1D9" height="170"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkar-d&layout=compact&theme=transparent&hide_border=true&title_color=79C0FF&text_color=C9D1D9" height="170"/> 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=kanishkar-d&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF"/> 
+<br>
+<img src="https://streak-stats.demolab.com?user=kanishkar-d&theme=transparent&hide_border=true&ring=79C0FF&fire=D2A8FF&currStreakLabel=79C0FF&sideLabels=C9D1D9&dates=C9D1D9"/> 
 <br><br>
+<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/kanishkar-d/kanishkar-d/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/> 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
 
 <div align="center">
-  <h2 style="color:#7B2CFF;">💼 FREELANCE SERVICES</h2>
+  <h2 style="color: #FFA657; font-family: monospace;">📬 CONNECT & COLLABORATE</h2>
 </div>
 
 <div align="center">
 
-| <b style="color:#00F5FF;">💻 WEBSITE DESIGN</b> | <b style="color:#FF00C8;">🎨 GRAPHIC DESIGN</b> | <b style="color:#7B2CFF;">⌨️ DIGITAL SERVICES</b> |
-| :--- | :--- | :--- |
-| Business Websites | Logo Design | PDF ➔ Word |
-| Landing Pages | Social Media Posts | Image ➔ Word |
-| Portfolio Websites | Posters & Flyers | Data Entry |
-| Responsive UI | Brochures | Document Typing |
+<p style="color: #C9D1D9;">Open for freelance opportunities, collaborations, and creative digital projects.</p>
+<br>
 
-</div>
+<a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335&color=161B22"/> </a> 
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=161B22"/> </a> 
+<a href="https://www.instagram.com/YOUR_INSTAGRAM"> <img src="https://img.shields.io/badge/INSTAGRAM-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F&color=161B22"/> </a> 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br><br><br>
 
-<div align="center">
-  <h2 style="color:#00F5FF;">📬 LET'S WORK TOGETHER</h2>
-</div>
-
-<div align="center">
-
-<b style="color:#FFFFFF;">Need a professional website, creative design, or digital services?</b><br>
-I'm available for freelance projects, collaborations, and creative work.
+<img src="https://komarev.com/ghpvc/?username=kanishkar-d&style=flat-square&color=79C0FF&label=PROFILE+VIEWS"/> 
 <br><br>
-
-<a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/📩%20EMAIL%20ME-0D1117?style=for-the-badge&labelColor=00F5FF&color=0D1117"/> </a> 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/💼%20LINKEDIN-0D1117?style=for-the-badge&labelColor=7B2CFF&color=0D1117"/> </a> 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM"> <img src="https://img.shields.io/badge/🎨%20INSTAGRAM-0D1117?style=for-the-badge&labelColor=FF00C8&color=0D1117"/> </a> 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<img src="https://komarev.com/ghpvc/?username=kanishkar-d&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"/> 
-<br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7B2CFF,100:00F5FF&height=150&section=footer&text=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20DEVELOP&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2&height=120&section=footer"/>
 </div>
