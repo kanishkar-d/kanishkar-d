@@ -1,137 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:24243E,75:7B2CFF,100:00F5FF&height=220&section=header&text=KANISHKAR%20T&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEV%20%7C%20UI%2FUX%20%7C%20DESIGNER&descAlignY=58&descSize=18"/>
+```
+$ whoami
+> kanishkar_t
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=%3E+INITIALIZING+PORTFOLIO...;%3E+SYSTEM+ONLINE;%3E+WELCOME+TO+THE+GRID" />
+$ status --check
+[OK] engineering_student   : true
+[OK] freelancer            : true
+[OK] accepting_projects    : true
+[..] loading_profile.......[████████████████████] 100%
+
+$ ./boot_profile.sh
+Welcome to the terminal, guest.
+```
+
+</div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+# > cat about.md
 
-</div>
+I'm Kanishkar — an engineering student who spends more time freelancing than sleeping. Somewhere between lecture halls and late-night deadlines, I picked up a habit: turning blank screens into things people actually use — sites, brand kits, posters, spreadsheets, scripts, whatever the job needs.
+
+I don't specialize in one lane. One day I'm laying out a landing page, the next I'm cleaning up a client's data in Python, the next I'm designing a logo from a two-line brief. I like that range. It keeps the work from ever feeling routine.
+
+Right now I'm open — to freelance gigs, collabs, weird side projects, anything that needs someone who can move between "developer" and "designer" without missing a beat.
 
 <br>
 
-<div align="center">
+# > ls skills/
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="180"/>
-
-### ⟨ IDENTITY MATRIX ⟩
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7B2CFF&center=true&vCenter=true&width=600&lines=Engineering+Student+%E2%9A%A1+Freelancer;Web+Dev+%2B+UI%2FUX+%2B+Graphic+Design;Turning+Ideas+Into+Interfaces" />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-</div>
-
-## ⟨ 01 ⟩ ABOUT THE SYSTEM
-
-<div align="center">
-
-| ⚡ | DATA |
-|:---:|:---|
-| 🎓 | Engineering student · currently freelancing |
-| 🛠️ | Web Development · UI/UX · Graphic Design |
-| 🐍 | Python for logic & automation |
-| 🗄️ | MySQL / database handling |
-| 🌐 | Open to collabs, freelance gigs & creative builds |
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
-
-## ⟨ 02 ⟩ TECH CORE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,figma,canva,vscode&theme=dark" height="60"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-</div>
-
-## ⟨ 03 ⟩ PROJECT SECTORS
-
-<table align="center" width="90%">
+<table width="100%">
 <tr>
-<td align="center" width="50%">
-
-### 💻 WEB DEV
-Responsive business sites · E-commerce UI · Landing pages
-
-</td>
-<td align="center" width="50%">
-
-### 🎨 GRAPHIC DESIGN
-Brand identity & logos · Social creatives · Posters
-
-</td>
+<td width="25%" align="center"><b>WEB</b><br><sub>HTML · CSS · JS</sub></td>
+<td width="25%" align="center"><b>LOGIC</b><br><sub>Python · Java</sub></td>
+<td width="25%" align="center"><b>DATA</b><br><sub>MySQL</sub></td>
+<td width="25%" align="center"><b>TOOLS</b><br><sub>Git · VS Code</sub></td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td width="25%" align="center"><b>DESIGN</b><br><sub>Figma · Canva</sub></td>
+<td width="25%" align="center"><b>OUTPUT</b><br><sub>Landing Pages</sub></td>
+<td width="25%" align="center"><b>OUTPUT</b><br><sub>Brand Kits</sub></td>
+<td width="25%" align="center"><b>OUTPUT</b><br><sub>Data Entry</sub></td>
+</tr>
+</table>
 
-### 🧠 ENGINEERING
-Python scripts · Problem solving · DB management
+<p align="center"><sub>tech stack, rendered</sub></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,figma,canva,vscode&theme=dark" height="45"/>
+</p>
 
+<br>
+
+# > dashboard --view=projects
+
+<table width="100%">
+<tr><th align="left" width="20%">SECTOR</th><th align="left">DETAILS</th></tr>
+<tr><td>🌐 Web Dev</td><td>Responsive business sites · E-commerce UI · Landing pages</td></tr>
+<tr><td>🎨 Design</td><td>Brand identity & logos · Social creatives · Posters</td></tr>
+<tr><td>🧠 Engineering</td><td>Python scripts · Problem-solving · DB management</td></tr>
+<tr><td>🧾 Freelance Ops</td><td>Doc formatting · Data entry & typing · Digital assets</td></tr>
+</table>
+
+<br>
+
+# > dashboard --view=stats
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkar-d&show_icons=true&theme=dark&hide_border=true"/>
 </td>
-<td align="center" width="50%">
-
-### 🧾 FREELANCE OPS
-Doc formatting · Data entry & typing · Digital assets
-
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkar-d&layout=compact&theme=dark&hide_border=true"/>
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
+<br>
 
-## ⟨ 04 ⟩ LIVE METRICS
+# > dashboard --view=contact
 
-<div align="center">
+<table width="100%">
+<tr><td width="20%"><b>Email</b></td><td><a href="mailto:YOUR_EMAIL@gmail.com">YOUR_EMAIL@gmail.com</a></td></tr>
+<tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/YOUR_LINKEDIN">/in/YOUR_LINKEDIN</a></td></tr>
+<tr><td><b>Instagram</b></td><td><a href="https://www.instagram.com/YOUR_INSTAGRAM">@YOUR_INSTAGRAM</a></td></tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkar-d&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkar-d&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000" height="170"/>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkar-d&theme=synthwave&hide_border=true&background=00000000" height="170"/>
+```
+$ echo "thanks for stopping by"
+> thanks for stopping by
+$ exit
+```
 
-<img src="https://github-profile-trophy.vercel.app/?username=kanishkar-d&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
-
-## ⟨ 05 ⟩ ACTIVITY FEED
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kanishkar-d/kanishkar-d/output/github-contribution-grid-snake.svg" width="90%"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
-## ⟨ 06 ⟩ UPLINK
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00F5FF?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-FF00C8?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kanishkar-d&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=150&section=footer&animation=twinkling"/>
-
-</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kanishkar-d&style=flat&color=grey&label=views"/></p>
