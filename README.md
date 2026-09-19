@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Animated wave banner with gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00FFFF&height=280&section=header&text=Hi%20There%20%F0%9F%91%8B%20I'm%20KANISHKAR%20T&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- Custom glowing neon-text banner (upload assets/banner.svg to your repo first) -->
+<img src="https://raw.githubusercontent.com/kanishkar-d/kanishkar-d/main/assets/banner.svg" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
