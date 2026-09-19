@@ -1,15 +1,10 @@
 <div align="center">
 
-<!-- Futuristic Floating Nodes (Obsidian Style Motion) -->
-<img src="https://i.pinimg.com/originals/7e/17/99/7e1799a4e705b004c8f5f4a6217c2fde.gif" width="100%" style="border-radius: 15px; border: 2px solid #00F5FF; box-shadow: 0px 0px 30px #00F5FF;" />
-
-<br><br>
-
-<!-- Hero Name with Waving Neon -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=120&section=header&text=KANISHKAR%20T&fontSize=65&fontColor=FFFFFF&animation=twinkling"/>
+<!-- Waving Header (Stable) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=220&section=header&text=KANISHKAR%20T&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
 
 <!-- Orbitron Futuristic Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=ENGINEERING+STUDENT;GRAPHIC+DESIGNER;WEBSITE+DESIGNER;FREELANCE+DEVELOPER;CREATIVE+PROBLEM+SOLVER;TURNING+IDEAS+INTO+DIGITAL+REALITY" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=ENGINEERING+STUDENT;GRAPHIC+DESIGNER;WEBSITE+DESIGNER;FREELANCE+DEVELOPER;CREATIVE+PROBLEM+SOLVER;TURNING+IDEAS+INTO+DIGITAL+REALITY" />
 
 <br>
 
@@ -19,14 +14,20 @@
 <img src="https://img.shields.io/badge/FREELANCE-0D1117?style=for-the-badge&logo=freelancer&logoColor=00F5FF"/>
 
 <br><br>
-<!-- Laser Data Line Divider -->
+
+<!-- Hacker / Developer GIF (Stable GitHub Host) -->
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150" style="border-radius: 50%; box-shadow: 0 0 20px #00F5FF;" />
+
+</div>
+
+<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=FF00C8&center=true&vCenter=true&width=500&lines=🧬+MY+DIGITAL+IDENTITY" />
-<br>
+<div align="center">
+  <h2 style="color:#FF00C8;">🧬 MY DIGITAL IDENTITY</h2>
+</div>
 
-<table align="center" style="border: 1px solid #7B2CFF; border-radius: 10px; background-color: #0D1117;">
+<table align="center" style="border: 1px solid #7B2CFF; background-color: #0D1117;">
 <tr> 
 <td align="center" width="220">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="45" height="45" /><br>
@@ -53,9 +54,11 @@ Helping businesses turn their ideas into professional digital solutions.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- TECH STACK HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=💻+TECH+STACK+&+CREATIVE+SKILLS" />
-<br>
+<div align="center">
+  <h2 style="color:#00F5FF;">💻 TECH STACK & CREATIVE SKILLS</h2>
+</div>
+
+<div align="center">
 
 👩‍💻 <b style="color:#FFFFFF;">DEVELOPMENT</b><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
@@ -71,15 +74,13 @@ Helping businesses turn their ideas into professional digital solutions.
 🛠️ <b style="color:#FFFFFF;">CURRENTLY LEARNING</b><br>
 <img src="https://img.shields.io/badge/Web%20Development-00F5FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Freelancing-FF00C8?style=for-the-badge"/> 
 
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- PROJECTS HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=7B2CFF&center=true&vCenter=true&width=500&lines=🚀+FEATURED+PROJECTS" />
-<br><br>
-
-<!-- Data Flow Mini Motion -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120" style="border-radius: 50%; box-shadow: 0 0 15px #7B2CFF;" />
-<br><br>
+<div align="center">
+  <h2 style="color:#7B2CFF;">🚀 FEATURED PROJECTS</h2>
+</div>
 
 <table align="center"> 
 <tr> 
@@ -120,28 +121,51 @@ Helping businesses turn their ideas into professional digital solutions.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- STATS HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=📊+GITHUB+STATISTICS" />
-<br><br>
+<div align="center">
+  <h2 style="color:#00F5FF;">📊 GITHUB STATISTICS</h2>
+</div>
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kanishkar-d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00C8&text_color=FFFFFF" height="180"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkar-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="180"/> 
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- SNAKE HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=FF00C8&center=true&vCenter=true&width=600&lines=🐍+CONTRIBUTION+STREAK" />
-<br><br>
+<div align="center">
+  <h2 style="color:#FF00C8;">🐍 CONTRIBUTION STREAK</h2>
+</div>
 
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=kanishkar-d&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF"/> 
 <br><br>
 <img src="https://raw.githubusercontent.com/kanishkar-d/kanishkar-d/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/> 
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- CONTACT HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=📬+LET'S+WORK+TOGETHER" />
-<br>
+<div align="center">
+  <h2 style="color:#7B2CFF;">💼 FREELANCE SERVICES</h2>
+</div>
+
+<div align="center">
+
+| <b style="color:#00F5FF;">💻 WEBSITE DESIGN</b> | <b style="color:#FF00C8;">🎨 GRAPHIC DESIGN</b> | <b style="color:#7B2CFF;">⌨️ DIGITAL SERVICES</b> |
+| :--- | :--- | :--- |
+| Business Websites | Logo Design | PDF ➔ Word |
+| Landing Pages | Social Media Posts | Image ➔ Word |
+| Portfolio Websites | Posters & Flyers | Data Entry |
+| Responsive UI | Brochures | Document Typing |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+  <h2 style="color:#00F5FF;">📬 LET'S WORK TOGETHER</h2>
+</div>
+
+<div align="center">
 
 <b style="color:#FFFFFF;">Need a professional website, creative design, or digital services?</b><br>
 I'm available for freelance projects, collaborations, and creative work.
