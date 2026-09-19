@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- System Online Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=250&section=header&text=KANISHKAR%20T&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=SYSTEM%20ONLINE%20%7C%20INITIATING%20PROTOCOL...&descAlignY=58&descSize=18"/>
+<!-- Futuristic Floating Nodes (Obsidian Style Motion) -->
+<img src="https://i.pinimg.com/originals/7e/17/99/7e1799a4e705b004c8f5f4a6217c2fde.gif" width="100%" style="border-radius: 15px; border: 2px solid #00F5FF; box-shadow: 0px 0px 30px #00F5FF;" />
+
+<br><br>
+
+<!-- Hero Name with Waving Neon -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=120&section=header&text=KANISHKAR%20T&fontSize=65&fontColor=FFFFFF&animation=twinkling"/>
 
 <!-- Orbitron Futuristic Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=ENGINEERING+STUDENT;GRAPHIC+DESIGNER;WEBSITE+DESIGNER;FREELANCE+DEVELOPER;CREATIVE+PROBLEM+SOLVER;TURNING+IDEAS+INTO+DIGITAL+REALITY" />
 
-<br><br>
-
-<!-- Sci-Fi HUD GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150" style="border-radius: 50%; box-shadow: 0 0 25px #00F5FF;" />
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/ENGINEERING-0D1117?style=for-the-badge&logo=academia&logoColor=00F5FF"/>
 <img src="https://img.shields.io/badge/DESIGN-0D1117?style=for-the-badge&logo=figma&logoColor=FF00C8"/>
@@ -57,10 +57,6 @@ Helping businesses turn their ideas into professional digital solutions.
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=💻+TECH+STACK+&+CREATIVE+SKILLS" />
 <br>
 
-<!-- Rotating Purple Cube -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408dad0ce466.gif" width="80" />
-<br><br>
-
 👩‍💻 <b style="color:#FFFFFF;">DEVELOPMENT</b><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
 <br><br>
@@ -79,6 +75,10 @@ Helping businesses turn their ideas into professional digital solutions.
 
 <!-- PROJECTS HEADER -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=7B2CFF&center=true&vCenter=true&width=500&lines=🚀+FEATURED+PROJECTS" />
+<br><br>
+
+<!-- Data Flow Mini Motion -->
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120" style="border-radius: 50%; box-shadow: 0 0 15px #7B2CFF;" />
 <br><br>
 
 <table align="center"> 
@@ -136,19 +136,6 @@ Helping businesses turn their ideas into professional digital solutions.
 <img src="https://streak-stats.demolab.com?user=kanishkar-d&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF"/> 
 <br><br>
 <img src="https://raw.githubusercontent.com/kanishkar-d/kanishkar-d/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/> 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- SERVICES HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=7B2CFF&center=true&vCenter=true&width=500&lines=💼+FREELANCE+SERVICES" />
-<br><br>
-
-| <b style="color:#00F5FF;">💻 WEBSITE DESIGN</b> | <b style="color:#FF00C8;">🎨 GRAPHIC DESIGN</b> | <b style="color:#7B2CFF;">⌨️ DIGITAL SERVICES</b> |
-| :--- | :--- | :--- |
-| Business Websites | Logo Design | PDF ➔ Word |
-| Landing Pages | Social Media Posts | Image ➔ Word |
-| Portfolio Websites | Posters & Flyers | Data Entry |
-| Responsive UI | Brochures | Document Typing |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
